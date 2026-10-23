@@ -1,0 +1,1 @@
+../../../../../build/rncore-facades/React-RCTFabric/RCTFabricComponentsPlugins.h
